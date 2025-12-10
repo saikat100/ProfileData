@@ -1,5 +1,5 @@
 {
-  Expertise: [
+  "Expertise": [
     "JavaScript",
     "React",
     "REST API",
@@ -7,9 +7,9 @@
     "Bootstrap",
     "Material UI",
     "HTML",
-    "CSS",
+    "CSS"
   ],
-  Comfortable: [
+  "Comfortable": [
     "Node.js",
     "Express.js",
     "MongoDB",
@@ -17,10 +17,10 @@
     "C",
     "C++",
     "PHP",
-    "MySQL",
+    "MySQL"
   ],
-  Familiar: ["Redux.js", "TypeScript", "Data Science"],
-  Tools: [
+  "Familiar": ["Redux.js", "TypeScript", "Data Science"],
+  "Tools": [
     "Git",
     "VS Code",
     "Chrome Dev tool",
@@ -35,94 +35,91 @@
     "JIRA",
     "NPM",
     "Yarn",
-    "Anaconda",
+    "Anaconda"
   ],
-  works: [
+  "works": [
     {
-      id: 3,
-      name: "Max Bike Repair",
-      images: [
-        https://i.ibb.co.com/j7JZ7B4/max-Bike-Repair-Clint1.png,
-        https://i.ibb.co.com/GQz2TbZS/max-Bike-Repair-Clint2.png,
-        https://i.ibb.co.com/XZGJCzYK/max-Bike-Repair-Clint3.png,
-        https://i.ibb.co.com/7dSz0rF0/max-Bike-Repair-Clint4.png,
+      "id": 3,
+      "name": "Max Bike Repair",
+      "images": [
+        "https://i.ibb.co.com/j7JZ7B4/max-Bike-Repair-Clint1.png",
+        "https://i.ibb.co.com/GQz2TbZS/max-Bike-Repair-Clint2.png",
+        "https://i.ibb.co.com/XZGJCzYK/max-Bike-Repair-Clint3.png",
+        "https://i.ibb.co.com/7dSz0rF0/max-Bike-Repair-Clint4.png"
       ],
-      desc: "This is a Responsive MERN-Stack web applications for motorcycle parts repair. In this site user can take our service, see his order list & reviews our site. If user want any services he must be authenticate with gmail or google. User can also cancelled his order. But he/she can't cancel his first order. If he/she want to cancel his order he need to order more then one services. There is a admin panel where admin can add more admins, add more services, update order condition of users.",
-      tools: ["React.js", "Node.js", "Express.js", "MongoDB", "Firebase"],
-      repo: "https://github.com/saikat100/max-bike-repair-clint",
-      live: "",
+      "desc": "This is a Responsive MERN-Stack web applications for motorcycle parts repair. In this site user can take our service, see his order list & reviews our site. If user want any services he must be authenticate with gmail or google. User can also cancelled his order. But he/she can't cancel his first order. If he/she want to cancel his order he need to order more then one services. There is a admin panel where admin can add more admins, add more services, update order condition of users.",
+      "tools": ["React.js", "Node.js", "Express.js", "MongoDB", "Firebase"],
+      "repo": "https://github.com/saikat100/max-bike-repair-clint",
+      "live": ""
     },
     {
-      id: 1,
-      name: "Refresh Painting",
-      images: [
-        https://i.ibb.co.com/svrtK8X3/Refresh-Professional-Painting-Service.png,
-        https://i.ibb.co.com/pjJy7Ffx/Refresh-Professional-Painting-Service2.png,
-        https://i.ibb.co.com/QxFzbR2/Refresh-Professional-Painting-Service3.png,
-        https://i.ibb.co.com/Rpbw31sx/Refresh-Professional-Painting-Service4.png,
+      "id": 1,
+      "name": "Refresh Painting",
+      "images": [
+        "https://i.ibb.co.com/svrtK8X3/Refresh-Professional-Painting-Service.png",
+        "https://i.ibb.co.com/pjJy7Ffx/Refresh-Professional-Painting-Service2.png",
+        "https://i.ibb.co.com/QxFzbR2/Refresh-Professional-Painting-Service3.png",
+        "https://i.ibb.co.com/Rpbw31sx/Refresh-Professional-Painting-Service4.png"
       ],
-      desc: "User can take different services as their need, track status of their taken services, see all order history, pay online through credit card. Admin can add new service and delete service that no longer available. Admin can view all order of services and change status of services.Admin can add new admin",
-      tools: [
+      "desc": "User can take different services as their need, track status of their taken services, see all order history, pay online through credit card. Admin can add new service and delete service that no longer available. Admin can view all order of services and change status of services.Admin can add new admin",
+      "tools": [
         "React.js",
         "Node.js",
         "Express.js",
         "MongoDB",
         "Firebase",
-        "Stripe.js",
+        "Stripe.js"
       ],
-      repo: "https://github.com/saikat100/Refresh-Painting-Client",
-      live: "",
+      "repo": "https://github.com/saikat100/Refresh-Painting-Client",
+      "live": ""
     },
     {
-      id: 2,
-      name: "Purchase Shop",
-      images: [
-        https://i.ibb.co.com/zWwKNHLC/purchase-Shop1.png,
-        https://i.ibb.co.com/HfZCQbdQ/purchase-Shop2.png,
-        https://i.ibb.co.com/hJNhbLr6/purchase-Shop3.png,
-        https://i.ibb.co.com/5XBMZfNs/purchase-Shop4.png,
+      "id": 2,
+      "name": "Purchase Shop",
+      "images": [
+        "https://i.ibb.co.com/zWwKNHLC/purchase-Shop1.png",
+        "https://i.ibb.co.com/HfZCQbdQ/purchase-Shop2.png",
+        "https://i.ibb.co.com/hJNhbLr6/purchase-Shop3.png",
+        "https://i.ibb.co.com/5XBMZfNs/purchase-Shop4.png"
       ],
-      desc: "It is a single page e-commerce website, where the user can see the details of any product and add it to the product cart. In the product details section, if the user wants, he can decrease the product. In the cart section, if the user wants, he can add multiple products and remove the the product. This is a fully responsive site. Created this project using React. I will add the payment gateway system in a few days.",
-      tools: ["React.js", "Node.js", "Express.js", "MongoDB", "Firebase"],
-      repo: "https://github.com/saikat100/purchase-shop-clint",
-      live: "",
-    },
+      "desc": "It is a single page e-commerce website, where the user can see the details of any product and add it to the product cart. In the product details section, if the user wants, he can decrease the product. In the cart section, if the user wants, he can add multiple products and remove the the product. This is a fully responsive site. Created this project using React. I will add the payment gateway system in a few days.",
+      "tools": ["React.js", "Node.js", "Express.js", "MongoDB", "Firebase"],
+      "repo": "https://github.com/saikat100/purchase-shop-clint",
+      "live": ""
+    }
   ],
-  latestNews: [
+  "latestNews": [
     {
-      id: 1,
-      title: "React Lifecycle",
-      time: "July 8, 2021",
-      description:
-        "Component is a building block of any React application and a React application is composed of multiple....",
-      image: https://i.ibb.co.com/Vc02Qx3H/news1.png,
-      url: "https://saikat-hossain.medium.com/react-lifecycle-bf83b9832be8",
+      "id": 1,
+      "title": "React Lifecycle",
+      "time": "July 8, 2021",
+      "description": "Component is a building block of any React application and a React application is composed of multiple....",
+      "image": "https://i.ibb.co.com/Vc02Qx3H/news1.png",
+      "url": "https://saikat-hossain.medium.com/react-lifecycle-bf83b9832be8"
     },
     {
-      id: 2,
-      title: "React Functional Component vs Class Component",
-      time: "July 10, 2021",
-      description: "Lorem ipsum dolor sit amet, consectetur...",
-      image: https://i.ibb.co.com/hRcXY3D8/news2.png,
-      url: "https://saikat-hossain.medium.com/react-lifecycle-bf83b9832be8",
+      "id": 2,
+      "title": "React Functional Component vs Class Component",
+      "time": "July 10, 2021",
+      "description": "Lorem ipsum dolor sit amet, consectetur...",
+      "image": "https://i.ibb.co.com/hRcXY3D8/news2.png",
+      "url": "https://saikat-hossain.medium.com/react-lifecycle-bf83b9832be8"
     },
     {
-      id: 3,
-      title: "Introduction of React Hooks",
-      time: "July 17, 2021",
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, tempora nihil...",
-      image: https://i.ibb.co.com/vvzPK0Pk/news3.jpg,
-      url: "https://saikat-hossain.medium.com/react-lifecycle-bf83b9832be8",
-    },
+      "id": 3,
+      "title": "Introduction of React Hooks",
+      "time": "July 17, 2021",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, tempora nihil...",
+      "image": "https://i.ibb.co.com/vvzPK0Pk/news3.jpg",
+      "url": "https://saikat-hossain.medium.com/react-lifecycle-bf83b9832be8"
+    }
   ],
-  workExperience: [
+  "workExperience": [
     {
-      id: 1,
-      duration: "Sep,2021 – Present",
-      designation: "MERN stack web Developer",
-      description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum, quidem aperiam! Sapiente provident dolorem tempora quis magni, neque odio quidem.",
-    },
-  ],
+      "id": 1,
+      "duration": "Sep,2021 – Present",
+      "designation": "MERN stack web Developer",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum, quidem aperiam! Sapiente provident dolorem tempora quis magni, neque odio quidem."
+    }
+  ]
 }
